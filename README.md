@@ -7,7 +7,7 @@ Archie is a suburban robot permanently trapped in an online prsion after his cre
 ## Background
 I decided to make Archie because I thought it was annoying that chatbots like Cleverbot don't really have any personality of their own. Archie is meant to seem like an actual person you can talk to.
 ## Install
-
+Press the run button in repl.it
 ## Usage
 After entering your name and telling him your current mode Archie will be ready for whatever you throw at him.
 ### Any optional sections
